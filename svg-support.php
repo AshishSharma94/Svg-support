@@ -4,6 +4,7 @@
  * Description: This Plugins add Support for svg in wordpress
  * Version: 1.0
  * Author: Ashish Sharma
+ * Author URI: https://profiles.wordpress.org/ashish029/
  */
 
 add_filter( 'wp_check_filetype_and_ext', function($data, $file, $filename, $mimes) {
